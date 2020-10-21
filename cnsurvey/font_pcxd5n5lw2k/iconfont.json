@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1069507",
+      "name": "glyphicon",
+      "font_class": "angle-down",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "1084508",
+      "name": "glyphicon",
+      "font_class": "chevron-sign-left",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "1084509",
+      "name": "glyphicon",
+      "font_class": "chevron-sign-right",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "3152494",
+      "name": "fa-angle-double-up",
+      "font_class": "fa-angle-double-up",
+      "unicode": "e85e",
+      "unicode_decimal": 59486
+    }
+  ]
+}
